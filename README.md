@@ -123,8 +123,6 @@ src/
 |Vinicius Oliveira Miranda de Andrade |    
 
 
-> Preencha os nomes e funções conforme a equipe do projeto.
-
 ---
 
 ## 📦 Como Rodar o Projeto
